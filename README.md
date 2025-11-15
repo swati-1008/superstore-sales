@@ -75,13 +75,14 @@ The dataset contains:
 
 ## 📁 Project Structure
 superstore-sales/
-│
 
-├── Capstone Project Queries.sql # All SQL queries used in the project
-
-├── README.md # Project documentation
-
-└── train.csv # Source dataset 
+    │
+    
+    ├── Capstone Project Queries.sql # All SQL queries used in the project
+    
+    ├── README.md # Project documentation
+    
+    └── train.csv # Source dataset 
 
 
 
